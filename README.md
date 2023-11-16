@@ -15,3 +15,5 @@ My data portfolio for data analyst role
   - Python Programming
   - Esential Python For Data Analyst
   - Dashboard
+
+  You can find me on Linkedin www.linkedin.com/in/pornpipat-leelakanaweera-1aa5ba208
